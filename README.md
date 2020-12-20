@@ -21,7 +21,9 @@ ATTENTION! DO NOT POWER BOARDS WITHOUT ANTENNAS!
 
 ===
 
-Video: https://www.youtube.com/watch?v=PFtE4-4ptFc
+Video: https://www.youtube.com/watch?v=PFtE4-4ptFc and
+
+https://youtu.be/ofa3f5FwyKo
 
 ====
 
