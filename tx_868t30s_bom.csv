@@ -1,0 +1,8 @@
+"Comment","Designator","Footprint"
+"10uf","C1","CAP_1206"
+"100PF","C2, C3, C5, C6","CAP_0603"
+"1u","C4","CAP_0805"
+"YELLOW","D5","DIODE_0805"
+"1k","R1, R2, R3, R4","RES_0603"
+"10k","R5, R6, R7","RES_0603"
+"18k","R8","RES_0603"
