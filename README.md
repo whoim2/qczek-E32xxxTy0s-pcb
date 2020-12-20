@@ -32,6 +32,12 @@ https://a.aliexpress.com/_AZkY3p
 - 100 шт./лот SMD Зенер диод SOD-323 0805 0,25 Вт SMD диод BZT52C10V 3V3 7V5 6V8 5V6 5V1 4V7 12В 10В 15В 16В 18В 20В 24В
 https://a.aliexpress.com/_9hOj2T
 
+- 50 шт./лот XC6206P332MR SOT-23 XC6206P332 SOT23 XC6206 SMD(662K) 3,3 В/А, положительное фиксированное напряжение LDO, новая и оригинальная фотосессия
+https://a.aliexpress.com/_Aa7RL9
+
+- (50 шт.) диоды SMD TVS SMBJ5.0A SMBJ5.0 600 W 5 V SMB (DO-214AA) Однонаправленный канал 600 Вт 5 вольт
+https://a.aliexpress.com/_ACuHQT
+
 - G71Y Высокое качество 50 шт./лот SMT 3x6x2017 мм 2-контактный тактовый кнопочный микро-переключатель G71 мгновенный горячая распродажа
 https://a.aliexpress.com/_A7uuDN
 
@@ -55,3 +61,4 @@ https://a.aliexpress.com/_9gPFfd
 
 - SX1276 868 МГц 100 мВт SMD беспроводной трансивер CDSENET E32-868T20S 868 МГц TTL 2000 м большой диапазон LoRa IPEX передатчик и приемник
 https://a.aliexpress.com/_9zqjMB
+
