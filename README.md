@@ -17,7 +17,7 @@ ATTENTION! DO NOT POWER BOARDS WITHOUT ANTENNAS!
 ===
 ![alt text](https://raw.githubusercontent.com/whoim2/qczek-E32xxxTy0s-pcb/main/Screenshot_1.png)
 
-![alt text](https://raw.githubusercontent.com/whoim2/qczek-E32xxxTy0s-pcb/main/Screenshot_2.png)
+![alt text](https://raw.githubusercontent.com/whoim2/qczek-E32xxxTy0s-pcb/main/Screenshot_3.png)
 
 ===
 
