@@ -15,6 +15,6 @@ ATTENTION! DO NOT POWER BOARDS WITHOUT ANTENNAS!
 
 ВНИМАНИЕ! ЗАПРЕЩАЕТСЯ ЗАПИТЫВАТЬ ПЛАТЫ БЕЗ АНТЕНН!
 ===
-![alt text](https://github.com/whoim2/qczek-E32xxxTy0s-pcb/blob/master/Produce_DanZhi.SMT_Snapshot.Bottom.2825145A_Y3.SMT020110997802.png?raw=true)
+![alt text](https://github.com/whoim2/qczek-E32xxxTy0s-pcb/blob/master/Screenshot_1.png?raw=true)
 
-![alt text](https://github.com/whoim2/qczek-E32xxxTy0s-pcb/blob/master/Produce_DanZhi.SMT_Snapshot.Bottom.2825145A_Y5.SMT020110997814.png?raw=true)
+![alt text](https://github.com/whoim2/qczek-E32xxxTy0s-pcb/blob/master/Screenshot_2.png?raw=true)
