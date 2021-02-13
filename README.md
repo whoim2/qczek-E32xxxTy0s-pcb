@@ -26,6 +26,10 @@ Video: https://www.youtube.com/watch?v=PFtE4-4ptFc and
 https://youtu.be/ofa3f5FwyKo
 
 ====
+Have 3d models for small taranis
+![alt text](https://raw.githubusercontent.com/whoim2/qczek-E32xxxTy0s-pcb/main/IMG_20210213_233624.jpg)
+
+====
 
 Parts / Компоненты:
 - 10 шт./лот CH340E 340E 340
